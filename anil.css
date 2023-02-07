@@ -1,0 +1,19 @@
+body {
+    background-color: powderblue;
+    background-image: "C:\Users\anilk\Downloads\Color Hunt Palette ecf9fffffbebffe7ccf8cba6.png";
+
+}
+h1{
+    color: black;
+    text-align: bottom;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+div{
+    align-items: center;
+    vertical-align: middle;
+}
